@@ -1,4 +1,4 @@
-To build the project it will require to execute next commands 
+To run the project it will require to execute next commands 
 
 ```bash
 docker build . -t micronaut-hello --no-cache -m 16g
