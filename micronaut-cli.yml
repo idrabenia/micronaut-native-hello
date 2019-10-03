@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: micronaut.hello.native1
+---
+testFramework: junit
+sourceLanguage: java
