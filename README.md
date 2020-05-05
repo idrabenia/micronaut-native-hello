@@ -1,4 +1,20 @@
-To run the project it will require to execute next commands 
+## Micronaut Hello Project
+
+### Build application
+
+*There are required Java 1.8 to be installed!*
+
+Windows:
+```bash
+gradlew clean build
+```
+
+Linux / MacOS:
+```bash
+./gradlew clean build
+```
+
+### Run the application
 
 ```bash
 docker build . -t micronaut-hello --no-cache -m 16g
