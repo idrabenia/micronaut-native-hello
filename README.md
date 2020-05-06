@@ -2,7 +2,7 @@
 
 ### Build application
 
-*There are required Java 1.8 to be installed!*
+*There are required Java 11 to be installed!*
 
 Windows:
 ```bash
